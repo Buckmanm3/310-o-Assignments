@@ -1,4 +1,4 @@
-Link to GitHub: https://github.com/Buckmanm3/310-o-Assignments
+Link to GitHub: https://github.com/Buckmanm3/310-o-Assignments/tree/main/Creator%20Kit%20Beginner%20Code
 
 Link to Video: https://youtu.be/WNVf5MtT0ZQ
 
