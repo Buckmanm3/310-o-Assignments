@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a96cf71494313b42b0e2459b8aa90d2, type: 3}
+  m_Name: spear
+  m_EditorClassIdentifier: 
+  ItemName: Spear
+  ItemSprite: {fileID: 21300000, guid: 5d0f6ae4987d02846b822915a7301dfa, type: 3}
+  Description: Pretty cool spear
+  WorldObjectPrefab: {fileID: 100000, guid: ffae9263bd1a66245bd2bad16f271364, type: 3}
+  Slot: 666
+  MinimumStrength: 5
+  MinimumAgility: 5
+  MinimumDefense: 5
+  EquippedEffects: []
+  HitSounds:
+  - {fileID: 8300000, guid: c35407837ab202c49a3a941eecf0fbe1, type: 3}
+  SwingSounds: []
+  Stats:
+    Speed: 5
+    MinimumDamage: 5
+    MaximumDamage: 5
+    MaxRange: 5
+  AttackEffects:
+  - {fileID: 667509541238488470}
+--- !u!114 &667509541238488470
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4cec9a1bd55a34479cc1d6f736a8bd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Description: Hits faster
